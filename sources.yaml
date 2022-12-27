@@ -1,4 +1,4 @@
-- hosts: 3.109.207.99
+- hosts: 43.204.215.5
   remote_user: ec2-user
   become: yes
   tasks:
